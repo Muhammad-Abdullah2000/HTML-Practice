@@ -1,0 +1,129 @@
+
+ *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} 
+
+.container{
+    margin-top: 10px;
+background: cadetblue;
+border-radius: 200px;
+height: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 50px;
+font-family: "Gill Sans", sans-serif;
+color: rgb(255, 255, 255);
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.item{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.container1{
+    height: 400px;
+    background: rgb(185, 172, 197);
+    border-radius: 100px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.ch{
+margin-top: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+h1{
+    margin-top: 30px;
+font-size: 30px;
+font-family: "Gill Sans", sans-serif;
+color: azure;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+#email{
+height: 35px;
+border: 10px;
+border-radius: 10px;
+width: 60%;
+}
+::placeholder{
+
+height: 50px;
+width: 90%;
+position: absolute;
+left: 10;
+outline: none;
+background: transparent;
+padding: 5px 20px;
+font-size: 17px;
+text-align: center;
+
+}
+.container2{
+
+height: 200px;
+
+
+}
+#password{
+
+height: 35px;
+border: 10px;
+border-radius: 10px;
+width: 60%;
+
+}
+
+.check{
+height: 100px;
+}
+#checkbox{
+
+    margin-left: 190px;
+    margin-top: 30px;
+
+}
+.tr{
+    margin: -18px;
+    margin-left: 239px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    color: rgb(84, 87, 90);
+}
+.button{
+    
+    margin-top: 40px;
+
+}
+#n{
+    height: 50px;
+    width: 260px;
+    border-radius: 10px;
+    margin-left: 200px;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(64, 70, 70);
+    cursor: pointer;
+    background-color: rgb(66, 165, 247);
+    border: none;
+}
+.Link{
+
+text-align: center;
+display: block;
+margin: 18px;
+color: #35505f;
+font-family: "Gill Sans", sans-serif;
+font-weight: bold;
+
+}
